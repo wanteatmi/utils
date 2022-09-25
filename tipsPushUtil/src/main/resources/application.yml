@@ -1,0 +1,17 @@
+
+spring:
+  mail:
+    host: smtp.163.com
+    username: test
+    password: test
+
+#jasypt:
+#  encryptor:
+#    # 配置加密算法
+#    algorithm: PBEWithMD5AndDES
+#    iv-generator-classname: org.jasypt.iv.NoIvGenerator
+#    password: salt
+mail:
+
+  receiver: test
+  adminHandler: test

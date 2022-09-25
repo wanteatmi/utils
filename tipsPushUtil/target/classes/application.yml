@@ -1,0 +1,18 @@
+
+spring:
+  mail:
+    host: smtp.163.com
+    username: m13071262724_2@163.com
+    password: SOBWPXNJMGPWWHCB
+
+#jasypt:
+#  encryptor:
+#    # 配置加密算法
+#    algorithm: PBEWithMD5AndDES
+#    iv-generator-classname: org.jasypt.iv.NoIvGenerator
+#    password: salt
+mail:
+  #receiver: 1220276642@qq.com,amu_mu@icloud.com
+  receiver: amu_mu@icloud.com
+  adminHandler: 1220276642@qq.com
+  #receiver: amu_mu@icloud.com
